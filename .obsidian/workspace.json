@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "6fa381ab292aa1b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "07c24f04f0bf72af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "232889e69c20ee78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Nginx服务器配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94461c69920f18a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca08c24bf9424e47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "565dd535de060548",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b72c9dc2ffd8af6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b4905595609e6d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e23bb95fcab2510d",
+    "type": "split",
+    "children": [
+      {
+        "id": "95df72eb6c91c275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ad8fd9ae1a05c78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Nginx服务器配置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fed0982313158bda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Nginx服务器配置.md"
+              }
+            }
+          },
+          {
+            "id": "be5f01fee76a77c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Nginx服务器配置.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d6610595b7ecb18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "float-search:Search Obsidian In Modal": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "232889e69c20ee78",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "2023-10-24.md",
+    "名言名句/名言名句1.md",
+    "名言/未命名.canvas",
+    "Linux/Nginx服务器配置.md",
+    "名言名句",
+    "Linux",
+    "React学习笔记"
+  ]
+}
